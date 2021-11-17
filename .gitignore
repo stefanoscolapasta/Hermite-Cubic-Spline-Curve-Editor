@@ -1,6 +1,6 @@
-./.vs
-./Debug
-./packages
+.vs
+Debug
+packages
 *.sln
-./Progetto1_2D/Debug
-./Progetto1_2D/*.vcxproj*
+Progetto1_2D/Debug
+Progetto1_2D/*.vcxproj*
