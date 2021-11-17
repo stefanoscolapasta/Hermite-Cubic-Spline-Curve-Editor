@@ -63,7 +63,7 @@ To get a local copy up and running follow these simple steps.
 
 ### Prerequisites
 
-You'll need to have GLM and NupenGL installed.
+You'll need to have OpenGL installed.
 
 
 <!-- USAGE EXAMPLES -->
