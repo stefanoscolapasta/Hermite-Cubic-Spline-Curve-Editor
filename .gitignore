@@ -1,0 +1,6 @@
+./.vs
+./Debug
+./packages
+*.sln
+./Progetto1_2D/Debug
+./Progetto1_2D/*.vcxproj*
