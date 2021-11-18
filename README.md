@@ -6,7 +6,7 @@
   <h1 align="center">Hermite Curves Editor</h1>
 
   <p align="center">
-    An editing tool for Cubic Hermite Splines
+  <h2 align="center">An editing tool for Cubic Hermite Splines</h2>
     <br />
     <br />
     <br />
