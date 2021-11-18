@@ -41,8 +41,29 @@ The editor I implemented lets you create a 2D shape and modify it using several 
 > * [Hermite Spline](https://en.wikipedia.org/wiki/Cubic_Hermite_spline)  
 > * [Spline](https://en.wikipedia.org/wiki/Spline_(mathematics))
 
-  
-A demo of the Editor.  
+### Built With
+
+* [C++](https://isocpp.org/)
+* [GLSL](https://www.khronos.org/opengl/wiki/Core_Language_(GLSL))
+* [OPENGL](https://www.opengl.org/)
+* [GLUT](https://www.opengl.org/resources/libraries/glut/)
+
+
+
+<!-- GETTING STARTED -->
+## Getting Started
+
+To get a local copy up and running follow these simple steps.
+
+
+### Prerequisites
+
+You'll need to have OpenGL installed.
+
+
+<!-- USAGE EXAMPLES -->
+## Usage
+### A demo of the Editor.  
 
 Tool selection menù will open by pressing RMB.
   
@@ -83,29 +104,6 @@ Moving a figure.
 Rotating a figure.
   
 ![](https://github.com/stefanoscolapasta/Hermite-Cubic-Spline-Curve-Editor/blob/main/res/rotate_fig.gif)
-
-### Built With
-
-* [C++](https://isocpp.org/)
-* [GLSL](https://www.khronos.org/opengl/wiki/Core_Language_(GLSL))
-* [OPENGL](https://www.opengl.org/)
-* [GLUT](https://www.opengl.org/resources/libraries/glut/)
-
-
-
-<!-- GETTING STARTED -->
-## Getting Started
-
-To get a local copy up and running follow these simple steps.
-
-
-### Prerequisites
-
-You'll need to have OpenGL installed.
-
-
-<!-- USAGE EXAMPLES -->
-## Usage
 
 
 <!-- ROADMAP -->
