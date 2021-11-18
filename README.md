@@ -43,8 +43,9 @@ The editor I implemented lets you create a 2D shape and modify it using several 
 
   
 A demo of the Editor. 
+Adding new figure.
   
-![](link)
+![](https://github.com/stefanoscolapasta/Hermite-Cubic-Spline-Curve-Editor/blob/main/res/new_fig.gif)
 
 ### Built With
 
