@@ -42,7 +42,7 @@ The editor I implemented lets you create a 2D shape and modify it using several 
 > * [Spline](https://en.wikipedia.org/wiki/Spline_(mathematics))
 
   
-A demo of the Editor.\
+A demo of the Editor.  
 
 Tool selection menù will open by pressing RMB.
   
@@ -68,6 +68,10 @@ Filling a figure.
   
 ![](https://github.com/stefanoscolapasta/Hermite-Cubic-Spline-Curve-Editor/blob/main/res/fill.gif)
 
+The brush tool to move multiple control points.
+  
+![](https://github.com/stefanoscolapasta/Hermite-Cubic-Spline-Curve-Editor/blob/main/res/brush.gif)
+
 Using the line cutter tool to split a figure in two.
   
 ![](https://github.com/stefanoscolapasta/Hermite-Cubic-Spline-Curve-Editor/blob/main/res/line_cutter.gif)
@@ -79,10 +83,6 @@ Moving a figure.
 Rotating a figure.
   
 ![](https://github.com/stefanoscolapasta/Hermite-Cubic-Spline-Curve-Editor/blob/main/res/rotate_fig.gif)
-
-The brush tool to move multiple control points.
-  
-![](https://github.com/stefanoscolapasta/Hermite-Cubic-Spline-Curve-Editor/blob/main/res/brush.gif)
 
 ### Built With
 
