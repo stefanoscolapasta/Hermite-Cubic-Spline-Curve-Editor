@@ -42,10 +42,47 @@ The editor I implemented lets you create a 2D shape and modify it using several 
 > * [Spline](https://en.wikipedia.org/wiki/Spline_(mathematics))
 
   
-A demo of the Editor. 
+A demo of the Editor.\
+
+Tool selection menù will open by pressing RMB.
+  
+![](https://github.com/stefanoscolapasta/Hermite-Cubic-Spline-Curve-Editor/blob/main/res/menu.png)
+
 Adding new figure.
   
 ![](https://github.com/stefanoscolapasta/Hermite-Cubic-Spline-Curve-Editor/blob/main/res/new_fig.gif)
+
+Inserting a control point.
+  
+![](https://github.com/stefanoscolapasta/Hermite-Cubic-Spline-Curve-Editor/blob/main/res/insert_cp.gif)
+
+Removing a control point.
+  
+![](https://github.com/stefanoscolapasta/Hermite-Cubic-Spline-Curve-Editor/blob/main/res/delete_cp.gif)
+
+Moving a control point.
+  
+![](https://github.com/stefanoscolapasta/Hermite-Cubic-Spline-Curve-Editor/blob/main/res/move_cp.gif)
+
+Filling a figure.
+  
+![](https://github.com/stefanoscolapasta/Hermite-Cubic-Spline-Curve-Editor/blob/main/res/fill.gif)
+
+Using the line cutter tool to split a figure in two.
+  
+![](https://github.com/stefanoscolapasta/Hermite-Cubic-Spline-Curve-Editor/blob/main/res/line_cutter.gif)
+
+Moving a figure.
+  
+![](https://github.com/stefanoscolapasta/Hermite-Cubic-Spline-Curve-Editor/blob/main/res/move_fig.gif)
+
+Rotating a figure.
+  
+![](https://github.com/stefanoscolapasta/Hermite-Cubic-Spline-Curve-Editor/blob/main/res/rotate_fig.gif)
+
+The brush tool to move multiple control points.
+  
+![](https://github.com/stefanoscolapasta/Hermite-Cubic-Spline-Curve-Editor/blob/main/res/brush.gif)
 
 ### Built With
 
